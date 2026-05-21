@@ -22,12 +22,20 @@
 
     <properties>
         <java.version>21</java.version>
+        <spring-boot.version>3.3.4</spring-boot.version>
         <lombok.version>1.18.34</lombok.version>
         <postgresql.version>42.7.4</postgresql.version>
     </properties>
 
     <dependencyManagement>
         <dependencies>
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-dependencies</artifactId>
+                <version>${spring-boot.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
             <dependency>
                 <groupId>org.postgresql</groupId>
                 <artifactId>postgresql</artifactId>

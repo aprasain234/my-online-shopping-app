@@ -1,0 +1,6 @@
+com/ashishprasain/productservice/service/ProductService.class
+com/ashishprasain/productservice/entity/Product.class
+com/ashishprasain/productservice/ProductServiceApplication.class
+com/ashishprasain/productservice/repository/ProductRepository.class
+com/ashishprasain/productservice/entity/Product$ProductBuilder.class
+com/ashishprasain/productservice/controller/ProductController.class

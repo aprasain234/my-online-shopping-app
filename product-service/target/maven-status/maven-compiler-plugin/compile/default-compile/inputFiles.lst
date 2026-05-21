@@ -1,0 +1,5 @@
+/app/product-service/src/main/java/com/ashishprasain/productservice/ProductServiceApplication.java
+/app/product-service/src/main/java/com/ashishprasain/productservice/controller/ProductController.java
+/app/product-service/src/main/java/com/ashishprasain/productservice/entity/Product.java
+/app/product-service/src/main/java/com/ashishprasain/productservice/repository/ProductRepository.java
+/app/product-service/src/main/java/com/ashishprasain/productservice/service/ProductService.java

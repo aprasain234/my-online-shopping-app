@@ -1,13 +1,12 @@
-package com.ashishprasain.myonlineshoppingapp;
+package com.ecommerce.product;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MyOnlineShoppingAppApplication {
+public class ProductServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MyOnlineShoppingAppApplication.class, args);
+        SpringApplication.run(ProductServiceApplication.class, args);
     }
-
 }
